@@ -1,8 +1,8 @@
-# Challenge 8: Extract, Transform, Load
+# Analyzing Movie Data: Extract, Transform, Load
 
 ## Challenge Overview
 
-- This challenge synthesizes the work done in the module into two functions. 
+- This analysis condenses data cleaning and database loading into two functions. 
 - These changes allow for a more efficient runtime and open the possibility to have the Extract, Transform, Load (ETL) process automated for future use. 
 - The challenge gives a basic look at how to operationalize the ETL workflow.
 
